@@ -7,6 +7,7 @@
     "react-dom": "^16.5.1",
     "react-scripts": "1.1.5"
   },
+  "homepage" : "https://github.com/zb18829041166/react-fisrt-study/tree/master/my-app/build",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
